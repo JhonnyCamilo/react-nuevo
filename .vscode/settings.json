@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1a3d6fad-5a5c-4a5f-9c2c-9b763b09a7b5/resourceGroups/smartentry/providers/Microsoft.Web/sites/ininde",
+    "appService.deploySubpath": "."
+}
